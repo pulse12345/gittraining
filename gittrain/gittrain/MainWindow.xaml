@@ -1,0 +1,14 @@
+﻿<Window x:Class="gittrain.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:gittrain"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Canvas x:Name="layout">
+        <Image x:Name="image" Source="3D-Backgrounds-illusion-free-download-.jpg" Height="310.4" Canvas.Top="10" Width="518.6"/>
+        <TextBlock x:Name="textBlock" Height="52.8" TextWrapping="Wrap" Canvas.Left="29.2" Canvas.Top="50" Width="356.8"><Run Foreground="#FFF4F609" FontSize="48" FontFamily="Wide Latin" Text="PulseTx"/><LineBreak/><Run/></TextBlock>
+
+    </Canvas>
+</Window>

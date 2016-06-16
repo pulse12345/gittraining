@@ -1,0 +1,14 @@
+C:\Users\Donald.BEM\Documents\gittraining\gittrain\gittrain\bin\Debug\gittrain.exe.config
+C:\Users\Donald.BEM\Documents\gittraining\gittrain\gittrain\bin\Debug\gittrain.exe
+C:\Users\Donald.BEM\Documents\gittraining\gittrain\gittrain\bin\Debug\gittrain.pdb
+C:\Users\Donald.BEM\Documents\gittraining\gittrain\gittrain\obj\Debug\gittrain.csprojResolveAssemblyReference.cache
+C:\Users\Donald.BEM\Documents\gittraining\gittrain\gittrain\obj\Debug\MainWindow.g.cs
+C:\Users\Donald.BEM\Documents\gittraining\gittrain\gittrain\obj\Debug\App.g.cs
+C:\Users\Donald.BEM\Documents\gittraining\gittrain\gittrain\obj\Debug\gittrain_MarkupCompile.cache
+C:\Users\Donald.BEM\Documents\gittraining\gittrain\gittrain\obj\Debug\gittrain_MarkupCompile.lref
+C:\Users\Donald.BEM\Documents\gittraining\gittrain\gittrain\obj\Debug\MainWindow.baml
+C:\Users\Donald.BEM\Documents\gittraining\gittrain\gittrain\obj\Debug\gittrain.g.resources
+C:\Users\Donald.BEM\Documents\gittraining\gittrain\gittrain\obj\Debug\gittrain.Properties.Resources.resources
+C:\Users\Donald.BEM\Documents\gittraining\gittrain\gittrain\obj\Debug\gittrain.csproj.GenerateResource.Cache
+C:\Users\Donald.BEM\Documents\gittraining\gittrain\gittrain\obj\Debug\gittrain.exe
+C:\Users\Donald.BEM\Documents\gittraining\gittrain\gittrain\obj\Debug\gittrain.pdb
